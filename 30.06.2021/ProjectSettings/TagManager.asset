@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Matdat
+  - Dimon
+  - Dimon2
+  - BtnMoveRight
+  - Player2
+  - Finish2
+  - Swich1
+  - Swich2
+  - Dieblue
+  - Die
+  - DieRed
+  - CongTac1
+  - CongTac2
+  - CongTac3
+  - Enemy
+  - Fire
+  - Fire1
+  - Platform
+  - ggAdmob
+  - trap
+  - Wind
+  - Snow
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Matdat
+  - Water
+  - UI
+  - Dimon
+  - BoxPlayer
+  - Ground
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
